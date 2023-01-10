@@ -1,0 +1,32 @@
+.introduccion {
+    background-color: #203658;
+    height: 40vh;   
+    padding-top: 20px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.seccion2{
+    margin-top: 0px;
+    background-color: #5f74b8;
+    height: 300px;
+    padding: 10px;
+    margin: 0px
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
