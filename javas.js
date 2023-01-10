@@ -2,7 +2,7 @@ function Bienvenidos(){
     console.log("Bienvenidos a Turnos Ya")
 }
 
-for (let i = 1; i <= 1; i++){
+for (let i = 1; i <= 10; i++){
     let nombre = prompt("Ingrese su nombre y apellido: ")
     while(nombre == ""){
         alert("No ha ingresado el campo requerido")
